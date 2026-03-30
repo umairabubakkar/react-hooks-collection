@@ -1,0 +1,8 @@
+{
+  "name": "react-hooks-collection",
+  "version": "1.0.0",
+  "description": "Custom React hooks for common use cases",
+  "main": "src/index.js",
+  "peerDependencies": { "react": ">=16.8.0" },
+  "license": "MIT"
+}
